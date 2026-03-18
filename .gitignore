@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+checkpoints/
+predictions/
+data/
+*.log
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+wandb/
+runs/
+*.nii
+*.nii.gz
