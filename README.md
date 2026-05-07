@@ -9,6 +9,9 @@
 
 Robust 3D medical image segmentation remains challenging due to substantial anatomical variability arising from respiration, pathology, and inter-subject morphological differences. Existing prompt-based segmentation approaches primarily model *what* organs look like and *where* they are — but largely ignore **how organs deform**.
 
+## Demo
+https://github.com/user-attachments/assets/2c20f08c-aeb3-4dca-88e9-cd70fa183745
+
 **TRIPROMPT-3D** introduces a fully automatic framework that integrates three complementary prompt modalities:
 
 | Prompt | Symbol | Encodes |
